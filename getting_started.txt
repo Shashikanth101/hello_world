@@ -14,3 +14,6 @@ other commands
 
 other useful commands
 	git status	//to check the status of our repository
+
+to make changes to your file and upload it:
+	make changes, save the file, then on the git bash: reuse commit and push commands.

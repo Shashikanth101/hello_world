@@ -1,1 +1,16 @@
 Starting to learn git, and github... Exciting so far...
+
+learnt a few git commands:
+
+At start :
+	git config --global user.name "Your Name"    // double quotes necessary
+	git config --global user.email "youremail@domain.com"   //double quotes not necessary
+
+other commands
+        git clone (url)		//url is that of our repository
+	git add (file names with extension)	//stuff to add shoud be present in the same folder as our current directory
+	git commit -m "committed message" (file names with extension) 	//to save changes	
+	git push -u origin master	//to transfer files to github account		
+
+other useful commands
+	git status	//to check the status of our repository

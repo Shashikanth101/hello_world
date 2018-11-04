@@ -8,8 +8,8 @@ At start :
 
 other commands
         git clone (url)		//url is that of our repository
-	git add (file names with extension)	//stuff to add shoud be present in the same folder as our current directory
-	git commit -m "committed message" (file names with extension) 	//to save changes	
+	git add (file name with extension)	//stuff to add shoud be present in the same folder as our current directory
+	git commit -m "committed message" (file name with extension) 	//to save changes	
 	git push -u origin master	//to transfer files to github account		
 
 other useful commands
